@@ -11,7 +11,7 @@ def key_for_min_value(name_hash)
   name_hash.key(absolute_min)
 end
 
-end 
+
 num_array = [43, 1, -218, 123]
 
 #the following method searches an array of numbers to determine
